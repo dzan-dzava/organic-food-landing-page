@@ -1,4 +1,1 @@
-# Organic Food
-
-### Organic Food Landing Page
-### Mobile First Approach
+https://dzan-dzava.github.io/organic-food/
